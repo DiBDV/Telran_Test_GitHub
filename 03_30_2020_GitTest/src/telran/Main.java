@@ -6,7 +6,7 @@ public class Main {
     }
 
     //    test task for pull request
-    public static void NewMethod(){
+    public static void newMain(String[] args) {
         System.out.println("This is a new method");
     }
 }
